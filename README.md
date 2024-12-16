@@ -150,5 +150,3 @@ If you install spritesheet-js globally, but the script fails due to missing the 
 ```sh
 echo "export PATH=$PATH:$(npm config --global get prefix)/bin" >> ~/.bashrc && source ~/.bashrc
 ```
-#   a d a d a  
- 
